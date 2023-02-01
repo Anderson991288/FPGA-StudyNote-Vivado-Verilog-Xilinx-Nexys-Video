@@ -38,3 +38,4 @@ TMDS Clock = 10 x Pixel Clock = 720 MHz
 
 https://github.com/embedded-explorer/Zynq7000-Video-Interfacing/blob/master/README.md
 
+https://docs.xilinx.com/r/2021.1-English/ug953-vivado-7series-libraries/MUXF7
