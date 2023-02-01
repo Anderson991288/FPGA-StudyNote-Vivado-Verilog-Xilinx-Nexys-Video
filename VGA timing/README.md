@@ -18,6 +18,8 @@
 
 ## Vertical Timing : 
 
+![image](https://user-images.githubusercontent.com/68816726/216085955-2a149a96-fdba-48aa-b5d7-6c4ffa311505.png)
+
 
 * O (ms) Frame Period
 * P (ms) Sync length
