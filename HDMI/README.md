@@ -25,6 +25,10 @@ Timings for this resolution are as follows
 Pixel Clock = 1500 x 800 x 60 = 72 MHz</br>
 TMDS Clock = 10 x Pixel Clock = 720 MHz
 
+### Result
+
+![IMG_2329_jpg](https://user-images.githubusercontent.com/68816726/216078311-fa2a162c-5d3a-4669-9978-7b8be8abfcdf.JPG)
+
 
 ### References
 
