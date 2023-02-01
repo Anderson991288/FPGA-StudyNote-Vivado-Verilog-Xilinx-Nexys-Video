@@ -29,8 +29,9 @@ TMDS Clock = 10 x Pixel Clock = 720 MHz
 
 ![IMG_2329_jpg](https://user-images.githubusercontent.com/68816726/216078311-fa2a162c-5d3a-4669-9978-7b8be8abfcdf.JPG)
 
+![APC_0050 1](https://user-images.githubusercontent.com/68816726/216082270-f0da2637-c837-426f-af41-bd6bd55ab857.jpg)
 
-![Uploading APC_0050 1.jpg…]()
+
 
 
 ### References
